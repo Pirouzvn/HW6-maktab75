@@ -5,7 +5,7 @@ function cumulativeSum(arr) {
       sum += arr[i];
       result.push(sum);
     }
-    console.log(result);
+    console.log(result); 
   }
   
   let arr01 = [1, 2, 3, 4, 5];
